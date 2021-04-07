@@ -12,7 +12,6 @@ Shujie Han is currently a fourth-year PhD Student under the supervision of [Prof
 
 Publications
 ======
-
 Conferences
 ------
 
@@ -55,3 +54,9 @@ Books
 1. Cheng He, Mengling Feng, Patrick P. C. Lee, Pinghui Wang, **Shujie Han**, and Yi Liu (Eds.).  
 **"Large-Scale Disk Failure Prediction."**  
 Springer, June 2020 (ISBN: 978-981-15-7749-9).  
+
+Preprints
+------
+1. **Shujie Han**, Jun Wu, Erci Xu, Cheng He, Patrick P. C. Lee, Yi Qiang, Qixing Zheng, Tao Huang, Zixi Huang, and Rui Li.  
+**"Robust Data Preprocessing for Machine-Learning-Based Disk Failure Prediction in Cloud Production Environments."**  
+arXiv:1912.09722, December 2019.  
