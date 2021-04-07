@@ -12,3 +12,46 @@ Shujie Han is currently a fourth-year PhD Student under the supervision of [Prof
 
 Publications
 ======
+
+Conferences
+------
+
+1. Fan Xu, **Shujie Han**, Patrick P. C. Lee, Yi Liu, Cheng He, and Jiongzhou Liu.  
+**"General Feature Selection for Failure Prediction in Large-scale SSD Deployment."**  
+Proceedings of the 51st IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2021), June 2021.  
+(AR: 48/295 = 16.3%)  
+
+2. **Shujie Han**, Patrick P. C. Lee, Fan Xu, Yi Liu, Cheng He, and Jiongzhou Liu.  
+**"An In-Depth Study of Correlated Failures in Production SSD-Based Data Centers."**  
+Proceedings of the 19th USENIX Conference on File and Storage Technologies (FAST 2021), February 2021.  
+(AR: 28/130 = 21.5%)  
+
+3. **Shujie Han**, Patrick P. C. Lee, Zhirong Shen, Cheng He, Yi Liu, and Tao Huang.  
+**"Toward Adaptive Disk Failure Prediction via Stream Mining."**  
+Proceedings of the 40th IEEE International Conference on Distributed Computing Systems (ICDCS 2020), Singapore, November 2020.  
+(AR: 105/584 = 18.5%)  
+
+4. Mi Zhang, **Shujie Han**, and Patrick P. C. Lee.  
+**"A Simulation Analysis of Reliability in Erasure-Coded Data Centers."**  
+Proceedings of the 36th IEEE International Symposium on Reliable Distributed Systems (SRDS 2017), Hong Kong, September 2017.  
+(AR: 24/72 = 33.3%)
+
+Journals
+------
+
+5. Mi Zhang, **Shujie Han**, and Patrick P. C. Lee.  
+**"SimEDC: A Simulator for the Reliability Analysis of Erasure-Coded Data Centers."**  
+IEEE Transactions on Parallel and Distributed Systems (TPDS), 30(12), pp. 2836-2848, December 2019.  
+(An earlier version appeared in SRDS 2017)  
+
+6. Min Fu, **Shujie Han**, Patrick P. C. Lee, Dan Feng, Zuoning Chen, and Yu Xiao.  
+**"A Simulation Analysis of Redundancy and Reliability in Primary Storage Deduplication."**  
+IEEE Transactions on Computers (TC), 67(9), pp. 1259-1272, September 2018.  
+(An earlier version appeared in IISWC 2016)  
+
+Books
+------
+
+1. Cheng He, Mengling Feng, Patrick P. C. Lee, Pinghui Wang, **Shujie Han**, and Yi Liu (Eds.).  
+**"Large-Scale Disk Failure Prediction."**  
+Springer, June 2020 (ISBN: 978-981-15-7749-9).  
