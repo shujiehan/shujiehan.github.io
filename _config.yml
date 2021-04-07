@@ -8,9 +8,9 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Shujie Han"
-#title_separator          : "-"
-#name                     : &name "Shujie Han"
-#description              : &description "personal description"
+title_separator          : ""
+name                     : "" #&name "Shujie Han"
+description              : &description "personal description"
 url                      : https://shujiehan.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shujiehan/shujiehan.github.io"
