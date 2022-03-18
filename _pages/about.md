@@ -39,12 +39,17 @@ Proceedings of the 36th IEEE International Symposium on Reliable Distributed Sys
 Journals
 ------
 
-5. Mi Zhang, **Shujie Han**, and Patrick P. C. Lee.  
+5. **Shujie Han**, Patrick P. C. Lee, Zhirong Shen, Cheng He, Yi Liu, and Tao Huang.  
+**"StreamDFP: A General Stream Mining Framework for Adaptive Disk Failure Prediction."**  
+Accepted for publication in IEEE Transactions on Computers (TC).  
+(An earlier version appeared in ICDCS 2020)  
+
+6. Mi Zhang, **Shujie Han**, and Patrick P. C. Lee.  
 **"SimEDC: A Simulator for the Reliability Analysis of Erasure-Coded Data Centers."**  
 IEEE Transactions on Parallel and Distributed Systems (TPDS), 30(12), pp. 2836-2848, December 2019.  
 (An earlier version appeared in SRDS 2017)  
 
-6. Min Fu, **Shujie Han**, Patrick P. C. Lee, Dan Feng, Zuoning Chen, and Yu Xiao.  
+7. Min Fu, **Shujie Han**, Patrick P. C. Lee, Dan Feng, Zuoning Chen, and Yu Xiao.  
 **"A Simulation Analysis of Redundancy and Reliability in Primary Storage Deduplication."**  
 IEEE Transactions on Computers (TC), 67(9), pp. 1259-1272, September 2018.  
 (An earlier version appeared in IISWC 2016)  
@@ -58,6 +63,12 @@ Springer, June 2020 (ISBN: 978-981-15-7749-9).
 
 Preprints
 ------
+
 1. **Shujie Han**, Jun Wu, Erci Xu, Cheng He, Patrick P. C. Lee, Yi Qiang, Qixing Zheng, Tao Huang, Zixi Huang, and Rui Li.  
 **"Robust Data Preprocessing for Machine-Learning-Based Disk Failure Prediction in Cloud Production Environments."**  
 arXiv:1912.09722, December 2019.  
+
+Awards
+======
+
+1. Alibaba Group Outstanding Science Research Intern in the project "Research on online failure prediction for HDDs and field studies for SSDs in large-scale data centers" in 2022.
