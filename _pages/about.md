@@ -71,4 +71,4 @@ arXiv:1912.09722, December 2019.
 Awards
 ======
 
-1. Alibaba Group Outstanding Science Research Intern in the project "Research on online failure prediction for HDDs and field studies for SSDs in large-scale data centers" in 2022.
+1. Alibaba Group Outstanding Science Research Intern in the project "Research on online failure prediction for HDDs and field studies for SSDs in large-scale data centers" in 2022.  
