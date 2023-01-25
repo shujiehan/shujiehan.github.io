@@ -45,7 +45,7 @@ Journals
 
 1. **Shujie Han**, Patrick P. C. Lee, Zhirong Shen, Cheng He, Yi Liu, and Tao Huang.  
 **"StreamDFP: A General Stream Mining Framework for Adaptive Disk Failure Prediction."**  
-Accepted for publication in IEEE Transactions on Computers (TC).  
+Accepted for publication in IEEE Transactions on Computers (TC), 72(2), pp.520-534, February 2023.  
 (An earlier version appeared in ICDCS 2020)  
 
 1. Mi Zhang, **Shujie Han**, and Patrick P. C. Lee.  
