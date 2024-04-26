@@ -80,8 +80,8 @@ analytics:
 author:
   name             : "Shujie Han"
   avatar           : "profile.png"
-  bio              : "Postdoc"
-  location         : "Beijing"
+  bio              : 
+  location         : "Xi'an, Shaanxi"
   employer         :
   googlescholar    :
   email            : "shujiehan00001@gmail.com"
