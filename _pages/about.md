@@ -45,6 +45,10 @@ Please feel free to contact me if you are interested in our research projects.
 
 Conferences
 ------
+1. Tao Duan, Runqing Chen, Pinghui Wang, Junzhou Zhao, Jiongzhou Liu, **Shujie Han**, Yi Liu, and Fan Xu.  
+"BSODiag: A Global Diagnosis Framework for Batch Servers Outage in Large-scale Cloud Infrastructure Systems."  
+Proceedings of the IEEE/ACM International Conference on Software Engineering (ICSE), Ottawa, Ontario, Canada, April 27, 2025.  
+
 1. **Shujie Han**, Zirui Ou, Qun Huang, and Patrick P. C. Lee.  
 **"Scaling Disk Failure Prediction via Multi-Source Stream Mining."**  
 Proceedings of the IEEE International Conference on Data Mining (ICDM) (Regular paper), Abu Dhabi, UAE, December 9, 2024.  
