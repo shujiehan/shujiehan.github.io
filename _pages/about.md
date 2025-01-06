@@ -48,11 +48,11 @@ Please feel free to contact me if you are interested in our research projects.
 Conferences
 ------
 1. Tao Duan, Runqing Chen, Pinghui Wang, Junzhou Zhao, Jiongzhou Liu, **Shujie Han**, Yi Liu, and Fan Xu.  
-"BSODiag: A Global Diagnosis Framework for Batch Servers Outage in Large-scale Cloud Infrastructure Systems."  
+**"BSODiag: A Global Diagnosis Framework for Batch Servers Outage in Large-scale Cloud Infrastructure Systems."**  
 Proceedings of the 47th IEEE/ACM International Conference on Software Engineering (ICSE), Ottawa, Ontario, Canada, April 2025.  
 
 1. Cheng Li, Jiahe Wei, Huiru Xie, Jinjiang Wang, Xiaonan Zhao, **Shujie Han** and Xiao Zhang  
-"TraceGen: A Block-Level Storage System Performance Evaluation Tool for Analyzing and Generating I/O Traces."  
+**"TraceGen: A Block-Level Storage System Performance Evaluation Tool for Analyzing and Generating I/O Traces."**  
 Proceedings of the 26th IEEE International Conference on High Performance Computing and Communications (HPCC) (Short paper), Wuhan, China, December 2024.  
 
 1. **Shujie Han**, Zirui Ou, Qun Huang, and Patrick P. C. Lee.  
