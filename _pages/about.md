@@ -29,6 +29,7 @@ Please feel free to contact me if you are interested in our research projects.
 
 # 🔥 News
 - *2025.01*: &nbsp;🎉🎉 One paper gets accepted in ICSE'25.
+- *2024.10*: &nbsp;🎉🎉 One paper gets accepted in HPCC'24.
 - *2024.09*: &nbsp;🎉🎉 One paper gets accepted in ICDM'24.
 
 # 📝 Publications 
@@ -48,7 +49,11 @@ Conferences
 ------
 1. Tao Duan, Runqing Chen, Pinghui Wang, Junzhou Zhao, Jiongzhou Liu, **Shujie Han**, Yi Liu, and Fan Xu.  
 "BSODiag: A Global Diagnosis Framework for Batch Servers Outage in Large-scale Cloud Infrastructure Systems."  
-Proceedings of the IEEE/ACM International Conference on Software Engineering (ICSE), Ottawa, Ontario, Canada, April 2025.  
+Proceedings of the 47th IEEE/ACM International Conference on Software Engineering (ICSE), Ottawa, Ontario, Canada, April 2025.  
+
+1. Cheng Li, Jiahe Wei, Huiru Xie, Jinjiang Wang, Xiaonan Zhao, **Shujie Han** and Xiao Zhang  
+"TraceGen: A Block-Level Storage System Performance Evaluation Tool for Analyzing and Generating I/O Traces."  
+Proceedings of the 26th IEEE International Conference on High Performance Computing and Communications (HPCC) (Short paper), Wuhan, China, December 2024.  
 
 1. **Shujie Han**, Zirui Ou, Qun Huang, and Patrick P. C. Lee.  
 **"Scaling Disk Failure Prediction via Multi-Source Stream Mining."**  
