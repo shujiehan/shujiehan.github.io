@@ -28,6 +28,7 @@ We also welcome senior undergraduate students (e.g., year-3 and year-4) to pursu
 Please feel free to contact me if you are interested in our research projects.
 
 # 🔥 News
+- *2025.01*: &nbsp;🎉🎉 One paper gets accepted in ICSE'25.
 - *2024.09*: &nbsp;🎉🎉 One paper gets accepted in ICDM'24.
 
 # 📝 Publications 
