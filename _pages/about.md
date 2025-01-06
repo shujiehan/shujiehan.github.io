@@ -47,16 +47,16 @@ Conferences
 ------
 1. Tao Duan, Runqing Chen, Pinghui Wang, Junzhou Zhao, Jiongzhou Liu, **Shujie Han**, Yi Liu, and Fan Xu.  
 "BSODiag: A Global Diagnosis Framework for Batch Servers Outage in Large-scale Cloud Infrastructure Systems."  
-Proceedings of the IEEE/ACM International Conference on Software Engineering (ICSE), Ottawa, Ontario, Canada, April 27, 2025.  
+Proceedings of the IEEE/ACM International Conference on Software Engineering (ICSE), Ottawa, Ontario, Canada, April 2025.  
 
 1. **Shujie Han**, Zirui Ou, Qun Huang, and Patrick P. C. Lee.  
 **"Scaling Disk Failure Prediction via Multi-Source Stream Mining."**  
-Proceedings of the IEEE International Conference on Data Mining (ICDM) (Regular paper), Abu Dhabi, UAE, December 9, 2024.  
+Proceedings of the IEEE International Conference on Data Mining (ICDM) (Regular paper), Abu Dhabi, UAE, December 2024.  
 (AR: 66/604 = 10.9%)  
 
 1. Zirui Ou, **Shujie Han**, Qihuan Zeng, and Qun Huang.  
 **"FedSSA: Reducing Overhead of Additive Cryptographic Methods in Federated Learning with Sketch."**  
-Proceedings of the 32nd IEEE International Conference on Network Protocols (ICNP), Charleroi, Belgium, October 28, 2024.  
+Proceedings of the 32nd IEEE International Conference on Network Protocols (ICNP), Charleroi, Belgium, October 2024.  
 (AR: 50/205 = 24.4%)  
 
 1. Xiao Zhang, Huiru Xie, Zhe Wang, **Shujie Han**, Leijie Zeng, and Wendi Cheng.  
