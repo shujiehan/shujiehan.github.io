@@ -1,0 +1,16 @@
+Corrections to the FAST'21 paper "An In-Depth Study of Correlated Failures in
+Production SSD-Based Data Centers"
+
+*************************************************************************
+January 17, 2022
+
+We fixed a bug in our analysis source code (i.e., the file path "analysis/measure.py").
+
+The bug affected the relative percentages of intra-node and intra-rack failures
+with a threshold of one month in Figures 6, 8, 10, 12, and 17. Specifically, we
+wrongly computed the relative percentages with a threshold of "30 hours" as those
+with a threshold of "one month". Thus, the yellow bars in these figures should be
+larger than the current results.
+
+However, this bug does not affect any text and findings in the paper. Hence,
+we still keep the USENIX version as is.

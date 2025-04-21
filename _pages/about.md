@@ -50,58 +50,71 @@ Conferences
 1. Tao Duan, Runqing Chen, Pinghui Wang, Junzhou Zhao, Jiongzhou Liu, **Shujie Han**, Yi Liu, and Fan Xu.  
 **"BSODiag: A Global Diagnosis Framework for Batch Servers Outage in Large-scale Cloud Infrastructure Systems."**  
 Proceedings of the 47th IEEE/ACM International Conference on Software Engineering (ICSE), Ottawa, Ontario, Canada, April 2025.  
+[\[pdf\]](files/icse25.pdf)  
 
 1. Cheng Li, Jiahe Wei, Huiru Xie, Jinjiang Wang, Xiaonan Zhao, **Shujie Han** and Xiao Zhang  
 **"TraceGen: A Block-Level Storage System Performance Evaluation Tool for Analyzing and Generating I/O Traces."**  
 Proceedings of the 26th IEEE International Conference on High Performance Computing and Communications (HPCC) (Short paper), Wuhan, China, December 2024.  
+[\[pdf\]](files/hpcc24.pdf)  
 
 1. **Shujie Han**, Zirui Ou, Qun Huang, and Patrick P. C. Lee.  
 **"Scaling Disk Failure Prediction via Multi-Source Stream Mining."**  
 Proceedings of the IEEE International Conference on Data Mining (ICDM) (Regular paper), Abu Dhabi, UAE, December 2024.  
 (AR: 66/604 = 10.9%)  
+[\[pdf\]](files/icdm24.pdf) [\[software\]](https://github.com/shujiehan/ScaleDFP)  
 
 1. Zirui Ou, **Shujie Han**, Qihuan Zeng, and Qun Huang.  
 **"FedSSA: Reducing Overhead of Additive Cryptographic Methods in Federated Learning with Sketch."**  
 Proceedings of the 32nd IEEE International Conference on Network Protocols (ICNP), Charleroi, Belgium, October 2024.  
 (AR: 50/205 = 24.4%)  
+[\[pdf\]](files/icnp24.pdf)  
 
 1. Xiao Zhang, Huiru Xie, Zhe Wang, **Shujie Han**, Leijie Zeng, and Wendi Cheng.  
 **"FastStore: Optimization of Distributed Block Storage Services for Cloud Computing."**  
 Proceedings of the 38th International Conference on Massive Storage Systems and Technology (MSST), Santa Clara, CA, USA, June 2024.  
 (AR: 27/66 = 40.9%)  
+[\[pdf\]](files/msst24.pdf)  
 
 1. Jinhong Li, Yanjing Ren, **Shujie Han**, Patrick P. C. Lee.  
 **"Enhancing LSM-tree Key-Value Stores for Read-Modify-Writes via Key-Delta Separation."**  
 Proceedings of the 40th IEEE International Conference on Data Engineering (ICDE 2024), Utrecht, Netherlands, May 2024.  
+[\[pdf\]](files/icde24kdsep.pdf)  
 
 1. Qingxiu Liu, Qun Huang, Xiang Chen, Sa Wang, Wenhao Wang, **Shujie Han**, and Patrick P. C. Lee.  
 **"PP-Stream: Toward High-Performance Privacy-Preserving Neural Network Inference via Distributed Stream Processing."**  
 Proceedings of the 40th IEEE International Conference on Data Engineering (ICDE 2024), Utrecht, Netherlands, May 2024.  
+[\[pdf\]](files/icde24ppstream.pdf)  
 
 1. Zhinan Cheng, **Shujie Han** (corresponding), Patrick P. C. Lee, Xin Li, Jiongzhou Liu, and Zhan Li.  
 **"An In-Depth Correlative Study Between DRAM Errors and Server Failures in Production Data Centers."**  
 Proceedings of the 41st International Symposium on Reliable Distributed Systems (SRDS 2022), Vienna, Austria, September 2022.  
 (AR: 24/105 = 22.9%)  
+[\[pdf\]](files/srds22.pdf)  
 
 1. Fan Xu, **Shujie Han** (corresponding), Patrick P. C. Lee, Yi Liu, Cheng He, and Jiongzhou Liu.  
 **"General Feature Selection for Failure Prediction in Large-scale SSD Deployment."**  
 Proceedings of the 51st IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2021), June 2021.  
 (AR: 48/295 = 16.3%)  
+[\[pdf\]](files/dsn21.pdf)  
 
 1. **Shujie Han**, Patrick P. C. Lee, Fan Xu, Yi Liu, Cheng He, and Jiongzhou Liu.  
 **"An In-Depth Study of Correlated Failures in Production SSD-Based Data Centers."**  
 Proceedings of the 19th USENIX Conference on File and Storage Technologies (FAST 2021), February 2021.  
 (AR: 28/130 = 21.5%)  
+[\[pdf\]](files/fast21.pdf) [\[software\]](https://github.com/shujiehan/ssdanalysis)  
 
 1. **Shujie Han**, Patrick P. C. Lee, Zhirong Shen, Cheng He, Yi Liu, and Tao Huang.  
 **"Toward Adaptive Disk Failure Prediction via Stream Mining."**  
 Proceedings of the 40th IEEE International Conference on Distributed Computing Systems (ICDCS 2020), Singapore, November 2020.  
 (AR: 105/584 = 18.5%)  
+(An extended version appeared in TC 2023)  
+[\[pdf\]](files/icdcs20.pdf) [\[software\]](https://github.com/shujiehan/StreamDFP)  
 
 1. Mi Zhang, **Shujie Han**, and Patrick P. C. Lee.  
 **"A Simulation Analysis of Reliability in Erasure-Coded Data Centers."**  
 Proceedings of the 36th IEEE International Symposium on Reliable Distributed Systems (SRDS 2017), Hong Kong, September 2017.  
-(AR: 24/72 = 33.3%)
+(AR: 24/72 = 33.3%)  
+[\[pdf\]](files/srds17.pdf) [\[software\]](http://adslab.cse.cuhk.edu.hk/software/simedc)  
 
 Journals
 ------
@@ -110,16 +123,19 @@ Journals
 **"StreamDFP: A General Stream Mining Framework for Adaptive Disk Failure Prediction."**  
 IEEE Transactions on Computers (TC), 72(2), pp.520-534, February 2023.  
 (An earlier version appeared in ICDCS 2020)  
+[\[main pdf\]](files/tc23.pdf) [\[supplementary pdf\]](files/tc23_supp.pdf) [\[software\]](https://github.com/shujiehan/StreamDFP)  
 
 1. Mi Zhang, **Shujie Han**, and Patrick P. C. Lee.  
 **"SimEDC: A Simulator for the Reliability Analysis of Erasure-Coded Data Centers."**  
 IEEE Transactions on Parallel and Distributed Systems (TPDS), 30(12), pp. 2836-2848, December 2019.  
 (An earlier version appeared in SRDS 2017)  
+[\[main pdf\]](files/tpds19.pdf) [\[supplementary pdf\]](files/tpds19_supp.pdf) [\[software\]](http://adslab.cse.cuhk.edu.hk/software/simedc)  
 
 1. Min Fu, **Shujie Han**, Patrick P. C. Lee, Dan Feng, Zuoning Chen, and Yu Xiao.  
 **"A Simulation Analysis of Redundancy and Reliability in Primary Storage Deduplication."**  
 IEEE Transactions on Computers (TC), 67(9), pp. 1259-1272, September 2018.  
 (An earlier version appeared in IISWC 2016)  
+[\[main pdf\]](files/tc18.pdf) [\[software\]](http://adslab.cse.cuhk.edu.hk/software/simdedup)  
 
 Books
 ------
@@ -127,6 +143,7 @@ Books
 1. Cheng He, Mengling Feng, Patrick P. C. Lee, Pinghui Wang, **Shujie Han**, and Yi Liu (Eds.).  
 **"Large-Scale Disk Failure Prediction."**  
 Springer, June 2020 (ISBN: 978-981-15-7749-9).  
+[\[doi\]](https://doi.org/10.1007/978-981-15-7749-9)
 
 Preprints
 ------
@@ -134,10 +151,11 @@ Preprints
 1. **Shujie Han**, Jun Wu, Erci Xu, Cheng He, Patrick P. C. Lee, Yi Qiang, Qixing Zheng, Tao Huang, Zixi Huang, and Rui Li.  
 **"Robust Data Preprocessing for Machine-Learning-Based Disk Failure Prediction in Cloud Production Environments."**  
 arXiv:1912.09722, December 2019.  
+[\[arXiv\]](https://arxiv.org/abs/1912.09722)
 
 # 📖 Teaching
 
-1. 信息存储与管理, Spring, 2024.  
+1. 信息存储与管理, Spring, 2024/2025.  
 1. 数据库系统实验, Fall, 2024.  
 
 # 💬 Activities
