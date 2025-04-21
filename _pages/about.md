@@ -101,7 +101,7 @@ Proceedings of the 51st IEEE/IFIP International Conference on Dependable Systems
 **"An In-Depth Study of Correlated Failures in Production SSD-Based Data Centers."**  
 Proceedings of the 19th USENIX Conference on File and Storage Technologies (FAST 2021), February 2021.  
 (AR: 28/130 = 21.5%)  
-[\[pdf\]](files/fast21.pdf) [\[software\]](https://github.com/shujiehan/ssdanalysis)  
+[\[pdf\]](files/fast21.pdf) [\[software\]](https://github.com/shujiehan/ssdanalysis) [\[corrections\]](files/fast21_corrections.txt)  
 
 1. **Shujie Han**, Patrick P. C. Lee, Zhirong Shen, Cheng He, Yi Liu, and Tao Huang.  
 **"Toward Adaptive Disk Failure Prediction via Stream Mining."**  
