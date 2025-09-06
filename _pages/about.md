@@ -28,6 +28,7 @@ We also welcome senior undergraduate students (e.g., year-3 and year-4) to pursu
 Please feel free to contact me if you are interested in our research projects.
 
 # 🔥 News
+- *2025.10*: &nbsp;🎉🎉 One paper gets accepted in APSys'25.
 - *2025.01*: &nbsp;🎉🎉 One paper gets accepted in ICSE'25.
 - *2024.10*: &nbsp;🎉🎉 One paper gets accepted in HPCC'24.
 - *2024.09*: &nbsp;🎉🎉 One paper gets accepted in ICDM'24.
@@ -47,6 +48,12 @@ Please feel free to contact me if you are interested in our research projects.
 
 Conferences
 ------
+1. Lingwen Gong, Kaixin Liu, Xiaolu Li, **Shujie Han**, Patrick P. C. Lee, Yuchong Hu, and Dan Feng.  
+"HyperGen: Optimizing Generative Inference with Long Prompts for Resource-Constrained Systems."  
+Proceedings of the ACM SIGOPS Asia-Pacific Workshop on Systems (ApSys 2025), Seoul, South Korea, October 2025.  
+(AR: 26/59 = 44.1%)  
+[\[pdf\]](files/apsys25.pdf)  
+
 1. Tao Duan, Runqing Chen, Pinghui Wang, Junzhou Zhao, Jiongzhou Liu, **Shujie Han**, Yi Liu, and Fan Xu.  
 **"BSODiag: A Global Diagnosis Framework for Batch Servers Outage in Large-scale Cloud Infrastructure Systems."**  
 Proceedings of the 47th IEEE/ACM International Conference on Software Engineering (ICSE), Ottawa, Ontario, Canada, April 2025.  
