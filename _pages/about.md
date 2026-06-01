@@ -34,7 +34,7 @@ Conferences
 
 1. Wendi Cheng, Xiao Zhang, Xiaonan Zhao, Xiaoling Shu, Jinjiang Wang, and **Shujie Han**.  
 **"wdCP: Windowed Incremental Checkpointing for Efficient and Bounded LLM Recovery."**  
-Proceedings of the 23rd ACM International Conference on Computing Frontiers (CF 2026), Catania, Italy, May 2026.  
+Proceedings of the 23rd ACM International Conference on Computing Frontiers (CF 2026) (Short paper), Catania, Italy, May 2026.  
 [\[pdf\]](files/cf26.pdf)  
 
 1. Meng Huang, Baolong Wang, Xiao Zhang, and **Shujie Han**\*.  
