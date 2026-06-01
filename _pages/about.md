@@ -27,29 +27,23 @@ We are looking for the self-motivated students who are interested in the interse
 We also welcome senior undergraduate students (e.g., year-3 and year-4) to pursue their master degrees in our group.
 Please feel free to contact me if you are interested in our research projects.
 
-# 🔥 News
-- *2025.10*: &nbsp;🎉🎉 One paper gets accepted in APSys'25.
-- *2025.01*: &nbsp;🎉🎉 One paper gets accepted in ICSE'25.
-- *2024.10*: &nbsp;🎉🎉 One paper gets accepted in HPCC'24.
-- *2024.09*: &nbsp;🎉🎉 One paper gets accepted in ICDM'24.
-
 # 📝 Publications 
-<!--div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div-->
 
 Conferences
 ------
+
+1. Wendi Cheng, Xiao Zhang, Xiaonan Zhao, Xiaoling Shu, Jinjiang Wang, and **Shujie Han**.  
+**"wdCP: Windowed Incremental Checkpointing for Efficient and Bounded LLM Recovery."**  
+Proceedings of the 23rd ACM International Conference on Computing Frontiers (CF 2026), Catania, Italy, May 2026.  
+[\[pdf\]](files/cf26.pdf)  
+
+1. Meng Huang, Baolong Wang, Xiao Zhang, and **Shujie Han**\*.  
+**"SemanticKV: A Semantics-Driven KV Cache Eviction Framework for Efficient Long Prompt LLM Inference."**  
+Proceedings of the 29th International Conference on Computer Supported Cooperative Work in Design (CSCWD 2026), Fuzhou, China, May 2026.  
+[\[pdf\]](files/cscwd26.pdf)  
+
 1. Lingwen Gong, Kaixin Liu, Xiaolu Li, **Shujie Han**, Patrick P. C. Lee, Yuchong Hu, and Dan Feng.  
-"HyperGen: Optimizing Generative Inference with Long Prompts for Resource-Constrained Systems."  
+**"HyperGen: Optimizing Generative Inference with Long Prompts for Resource-Constrained Systems."**  
 Proceedings of the ACM SIGOPS Asia-Pacific Workshop on Systems (ApSys 2025), Seoul, South Korea, October 2025.  
 (AR: 26/59 = 44.1%)  
 [\[pdf\]](files/apsys25.pdf)  
@@ -93,13 +87,13 @@ Proceedings of the 40th IEEE International Conference on Data Engineering (ICDE 
 Proceedings of the 40th IEEE International Conference on Data Engineering (ICDE 2024), Utrecht, Netherlands, May 2024.  
 [\[pdf\]](files/icde24ppstream.pdf)  
 
-1. Zhinan Cheng, **Shujie Han** (corresponding), Patrick P. C. Lee, Xin Li, Jiongzhou Liu, and Zhan Li.  
+1. Zhinan Cheng, **Shujie Han**\*, Patrick P. C. Lee, Xin Li, Jiongzhou Liu, and Zhan Li.  
 **"An In-Depth Correlative Study Between DRAM Errors and Server Failures in Production Data Centers."**  
 Proceedings of the 41st International Symposium on Reliable Distributed Systems (SRDS 2022), Vienna, Austria, September 2022.  
 (AR: 24/105 = 22.9%)  
 [\[pdf\]](files/srds22.pdf)  
 
-1. Fan Xu, **Shujie Han** (corresponding), Patrick P. C. Lee, Yi Liu, Cheng He, and Jiongzhou Liu.  
+1. Fan Xu, **Shujie Han**\*, Patrick P. C. Lee, Yi Liu, Cheng He, and Jiongzhou Liu.  
 **"General Feature Selection for Failure Prediction in Large-scale SSD Deployment."**  
 Proceedings of the 51st IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2021), June 2021.  
 (AR: 48/295 = 16.3%)  
@@ -168,6 +162,7 @@ arXiv:1912.09722, December 2019.
 
 # 💬 Activities
 
+1. Shadow PC member in EuroSys'26 Spring and Fall.  
 1. PC member in ICA3PP'24 and ICA3PP'23.  
 1. Journal Reviewer in TON, TOS, and TCAD.  
 
