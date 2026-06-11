@@ -31,6 +31,10 @@ Please feel free to contact me if you are interested in our research projects.
 
 Conferences
 ------
+1. Jinjiang Wang, Xiao Zhang, Wendi Cheng, **Shujie Han**\*, Xiaoling Shu, and Xuqi Luo.  
+**"APEX: Access Pattern Driven Far-memory Prefetching via Hardware-assisted Profiling."**  
+Proceedings of the 40th International Conference on Massive Storage Systems and Technology (MSST), Santa Clara, CA, USA, June 2026.  
+[\[pdf\]](files/msst26-apex.pdf)  
 
 1. Wendi Cheng, Xiao Zhang, Xiaonan Zhao, Xiaoling Shu, Jinjiang Wang, and **Shujie Han**.  
 **"wdCP: Windowed Incremental Checkpointing for Efficient and Bounded LLM Recovery."**  
@@ -54,7 +58,7 @@ Proceedings of the 47th IEEE/ACM International Conference on Software Engineerin
 (AR: 276/1,856 = 14.9%)  
 [\[pdf\]](files/icse25.pdf)  
 
-1. Cheng Li, Jiahe Wei, Huiru Xie, Jinjiang Wang, Xiaonan Zhao, **Shujie Han** and Xiao Zhang  
+1. Cheng Li, Jiahe Wei, Huiru Xie, Jinjiang Wang, Xiaonan Zhao, **Shujie Han\*** and Xiao Zhang  
 **"TraceGen: A Block-Level Storage System Performance Evaluation Tool for Analyzing and Generating I/O Traces."**  
 Proceedings of the 26th IEEE International Conference on High Performance Computing and Communications (HPCC) (Short paper), Wuhan, China, December 2024.  
 [\[pdf\]](files/hpcc24.pdf)  
